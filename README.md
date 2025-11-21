@@ -100,7 +100,7 @@ To configure Firebase for your project, follow these steps:
 
 For any questions or inquiries, please contact:
 
-- **Email:** nuresmaozkan98@gmail.com
+- **Email:** esmanursolmaz@outlook.com
 
 
 
